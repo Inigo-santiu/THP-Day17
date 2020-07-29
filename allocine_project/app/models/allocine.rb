@@ -1,0 +1,2 @@
+class Allocine < ApplicationRecord
+end
